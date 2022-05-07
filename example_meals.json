@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "name": "Pancakes",
+    "category": "Breakfast",
+    "ingredients": ["Flour", "Eggs", "Butter", "Sugar", "Vanilla Extract"]
+  },
+  {
+    "id": 2,
+    "name": "Grilled Chicken",
+    "category": "Lunch",
+    "ingredients": ["Chicken Breast", "Salt", "Pepper", "Olive Oil"]
+  },
+  {
+    "id": 3,
+    "name": "Steak Quesadilla",
+    "category": "Dinner",
+    "ingredients": ["Steak", "Tortillas", "Salt", "Pepper", "Vegetable Oil", "Jack Cheese"]
+  },
+  {
+    "id": 4,
+    "name": "Fried Chicken",
+    "category": "Lunch",
+    "ingredients": ["Chicken Breast", "Salt", "Pepper", "Vegetable Oil"]
+  }
+]
